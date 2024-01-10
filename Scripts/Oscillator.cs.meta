@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 678c0ae3a47df2f4d8a94357407506bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waveform: {fileID: 11400000, guid: 8f53531d595094245833db8e18d39412, type: 2}
+  - envelope: {fileID: 11400000, guid: 994966ff7f4a68a4c8f561965b187cf0, type: 2}
+  - filter: {fileID: 11400000, guid: 3de171105ab3fde4eac7fc4f8337eef0, type: 2}
+  - modulator: {fileID: 11400000, guid: 6d523d79f4e64ac49bfe9f58075692ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
